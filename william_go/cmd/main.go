@@ -1,4 +1,4 @@
-package main        //everything belongs to a package
+package main        //everything belongs to a package 
 import (
 	 
 	"fmt"
@@ -42,3 +42,4 @@ func main(){
 
 //run above code in terminal cmd directory
 //go run ./main.go
+//test
