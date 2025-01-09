@@ -18,7 +18,7 @@ func createEC2(name string) string {
     )
 
     if err != nil{
-		fmt.Println("seesion failed", err)
+		fmt.Println("session failed", err)
 	}
 
 	_, err = sess.Config.Credentials.Get()
